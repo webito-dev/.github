@@ -1,7 +1,7 @@
 # Hi there 👋 We're Webito!
 
 <a href="https://github.com/magento" target="_blank">![MAGENTO](https://avatars.githubusercontent.com/u/168457?s=40&v=4)</a>
-<a href="https://mage-os.org/" target="_blank"><img src="https://mage-os.org/wp-content/uploads/2023/08/Mage-OS-Community-Member.png" alt="Mage-OS Logo" height="30" style="max-width: 100%;"></a>
+<a href="https://mage-os.org/" target="_blank"><img src="https://images.opencollective.com/mage-os/6fc2ada/logo/192.png?height=192" alt="Mage-OS Logo" height="30" style="max-width: 100%;"></a>
 <a href="https://www.hyva.io/suppliers#Italy" target="_blank">![HYVA](https://avatars.githubusercontent.com/u/71124897?s=40&v=4)</a>
 <a href="https://github.com/laravel/laravel" target="_blank">![LARAVEL](https://avatars.githubusercontent.com/u/958072?s=40&v=4)</a>
 <a href="https://github.com/deployphp/deployer" target="_blank"><img src="https://deployer.org/img/logo.svg" alt="Deployer Logo" height="30" style="max-width: 100%;"></a>
